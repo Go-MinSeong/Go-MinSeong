@@ -49,16 +49,16 @@ I'm glad to see you. Have a nice day 😄
 ## 💻Projects
 |프로젝트명|기간|분야|링크|
 |------|---|---|---|
-|L사의 고객 세분화를 통한 프로모션 제안||데이터 분석|[LINK]()|
-|설문 응답 여부 예측(Kaggle competition)||ML|[LINK]()|
-|네이버 메일 읽음 여부 예측||NLP|[LINK]()|
-|로그를 통한 나를 분석하기||데이터 분석|[LINK]()|
-|홍대&상수 상권 분석을 통한 생존 전략||QGIS|[LINK]()|
-|식물 이미지 질병 탐지||CV|[LINK]()|
-|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구||CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
-|책 내용 요약 및 text to image를 통한 책 장면 이미지화||CV/NLP|[LINK]()|
-|KRX시장 신규 상장 주식 주가 흐름 분석||데이터 분석, NLP|[LINK]()|
-|FineGym dataset Temporal Action Localization through various data||CV, Speech|[LINK]()|
+|L사의 고객 세분화를 통한 프로모션 제안|21.03~21.06|데이터 분석|[LINK]()|
+|설문 응답 여부 예측(Kaggle competition)|21.09~21.12|ML|[LINK]()|
+|로그를 통한 나를 분석하기|21.09~21.12|데이터 분석|[LINK]()|
+|홍대&상수 상권 분석을 통한 생존 전략|21.09~21.12|QGIS|[LINK]()|
+|네이버 메일 읽음 여부 예측|22.03~22.06|NLP|[LINK]()|
+|식물 이미지 질병 탐지|22.09~22.12|CV|[LINK]()|
+|책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[LINK]()|
+|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|22.09~ ing|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
+|FineGym dataset Temporal Action Localization through various data|22.12~ ing|CV, Speech|[LINK]()|
+|KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ ing|데이터 분석, NLP|[LINK]()|
 
 
 ***
