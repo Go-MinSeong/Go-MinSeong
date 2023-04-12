@@ -49,8 +49,8 @@ I'm glad to see you. Have a nice day 😄
 ***
 
 ## 💻Projects
-|프로젝트명|기간|분야|링크|
-|------|---|---|---|
+| 프로젝트명 | 기간 | 분야 | 링크 |
+| :------: | :---: | :---: | :---: |
 |L사의 고객 세분화를 통한 프로모션 제안|21.03~21.06|데이터 분석|[LINK]()|
 |설문 응답 여부 예측(Kaggle competition)|21.09~21.12|ML|[LINK]()|
 |로그를 통한 나를 분석하기|21.09~21.12|데이터 분석|[LINK]()|
@@ -66,8 +66,8 @@ I'm glad to see you. Have a nice day 😄
 ***
 
 ## 🏆Competition
-|주관|기간|대회명|프로젝트명|비고|
-|---|---|---|-----|---|
+| 주관 | 기간 | 대회명 | 프로젝트명 | 비고 |
+| :---: | :---: | :---: | :-----: | :---: |
 |DACON|22.01~22.01| 잡케어 추천 알고리즘 경진대회 ||[LINK]()|
 |강서구청|22.02~22.02| 강서구 빅데이터 활용 공모전 ||[LINK]()|
 |수자원공사|22.03~22.07|2022년 대국민 물 빅데이터 공모전||[LINK]()|
@@ -81,8 +81,8 @@ I'm glad to see you. Have a nice day 😄
 ***
 
 ## 📜 자격증 및 수료
-|취득 연도|자격증|주관|유효기간|
-|-|-|-|-|
+| 취득 연도 | 자격증 | 주관 | 유효기간 |
+| :-: | :-: | :-: | :-: |
 |2018|MOS Excel|Microsoft|영구|
 |2019|한국사능력1급|교육부|영구|
 |2020|ADsP|한국데이터산업진흥원|영구|
@@ -91,12 +91,13 @@ I'm glad to see you. Have a nice day 😄
 
 
 ## 🛠️ Algorithm Stats
+  <p align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kms990321)](https://solved.ac/kms990321)<br/>
 
 
 ## 📊 GitHub Stats
 
-
+<p align="center">
 ![Minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Go-MinSeong&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
