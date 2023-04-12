@@ -29,7 +29,6 @@ I'm glad to see you. Have a nice day 😄
 ***
 
 ## 📝Career
-<p align="center">  
   
 | 활동기간 | 기관 | 명칭 | 비고 |
 | :------: | :------: | :------: | :------: |
@@ -91,13 +90,11 @@ I'm glad to see you. Have a nice day 😄
 
 
 ## 🛠️ Algorithm Stats
-  <p align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kms990321)](https://solved.ac/kms990321)<br/>
 
 
 ## 📊 GitHub Stats
 
-<p align="center">
 ![Minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Go-MinSeong&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
