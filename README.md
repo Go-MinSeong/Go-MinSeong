@@ -114,10 +114,11 @@ I'm glad to see you. Have a nice day 😄
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Go-MinSeong&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+  
 ## 🎮 Game Skills 
 ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴)
+---
+[![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
