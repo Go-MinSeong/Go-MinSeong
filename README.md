@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=4169e1&type=transparent&text=Wellcome to my Home&fontSize=50&fontColor=4169e1&theme=transparent&section=header)
 
 ## Hi There 👋 
-Hello, I'm MinSeong Go, dreaming of becoming a **AI Developer** specializing in Computer Vision
+Hello, I'm MinSeong Go, dreaming of becoming a **AI Developer**
 
 I am going to graduate from Kookmin University in Feburary 2024, 
 
