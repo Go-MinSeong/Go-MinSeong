@@ -120,5 +120,4 @@ I'm glad to see you. Have a nice day 😄
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🎮 Game Skills 
-<p align="center">
 ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴)
