@@ -56,7 +56,7 @@ I'm glad to see you. Have a nice day 😄
 |D&A Basic session|21.03~21.06|데이터 분석|-|
 |D&A ML session|21.09~21.12|머신러닝|-|
 |알고리즘 스터디|22.01~22.02|알고리즘|-|
-|AI 504 강의 스터디|22.01~22.02|딥러닝 기초|-|
+|AI 504 강의 스터디|22.01~22.02|딥러닝 기초|[LINK](https://github.com/Go-MinSeong/AI-504-Study)|
 |D&A DL session|22.03~22.06|딥러닝|-|
 |XA:I Basic session|22.07~22.08|딥러닝|-|
 |XA:I Basic session|23.03~23.06|딥러닝(운영진)|[LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence)|
