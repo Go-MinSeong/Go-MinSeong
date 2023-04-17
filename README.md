@@ -38,13 +38,14 @@ I'm glad to see you. Have a nice day 😄
 | 2018.03 ~ | 국민대학교 | 데이터사이언스 (복수전공) | 재학 |
 | 2018.03 ~ | 국민대학교 | 빅데이터경제(부전공) | 재학 |
 | 2021.03~2022.12 | 데이터 분석 학회 D&A | 학회원 | 수료 |
-| 2021.12~2022.12 | AI빅데이터융합경영학과 제 1대 학생회 AI:M | 학술부장 | 수료 |
+| 2021.12~2022.12 | AI빅데이터융합경영학과 제 1대 학생회 AI:M | 학술부장 | - |
+| 2022.01, 2022.08 | 방학 파이썬 기초 스터디 | 운영장 | - |
 | 2021.07~2021.08 | LG Aimers 1기 | 수강생 | 수료 |
 | 2022.03~2023.02 | DB김준기문화재단 | DB동하리 | 수료 |
 | 2022.03~2023.02 | 아이들과미래재단 | KB학습멘토링 | 수료 |
 | 2022.12~ | 국민대학교 | 학부연구생 | 진행중 |
-| 2023.01~ | 준학회 X:AI | 운영진 | 진행중 |
-| 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | 수료 |
+| 2023.01~ | 준학회 X:AI | 운영진 | 진행중 [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do) |
+| 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | [LINK](https://www.youtube.com/watch?v=DuUlDEizV0s) |
 
   
 링크가 없는 경우는 링크 준비중에 있습니다.
@@ -73,7 +74,7 @@ I'm glad to see you. Have a nice day 😄
 |홍대&상수 상권 분석을 통한 생존 전략|21.09~21.12|QGIS|-|
 |네이버 메일 읽음 여부 예측|22.03~22.06|NLP|-|
 |식물 이미지 질병 탐지|22.09~22.12|CV|-|
-|책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|-|
+|책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[LINK](https://www.youtube.com/watch?v=DWKVIOXZ92w&t=8s)|
 |Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|22.09~ ing|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
 |FineGym dataset Temporal Action Localization through various data|22.12~ ing|CV, Speech|-|
 |KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ ing|데이터 분석, NLP|-|
