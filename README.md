@@ -119,9 +119,9 @@ I'm glad to see you. Have a nice day 😄
 
   
 ## 🎮 Game Skills 
-![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴) ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps) ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=JustLikeThatKR)
+![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴) ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps) ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=hideonbush)
   
-![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps) ![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/solvedac?name=JustLikeThatKR)
+![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps) ![hideonbush](https://lol-github-profile-api.vercel.app/api/solvedac?name=hideonbush)
 
 ![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
   
@@ -129,4 +129,3 @@ I'm glad to see you. Have a nice day 😄
   
 [![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
