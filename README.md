@@ -119,9 +119,9 @@ I'm glad to see you. Have a nice day 😄
 
   
 ## 🎮 Game Skills 
-![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴) [image](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps)
+![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴) ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps)
   
-![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) [Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps)
+![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps)
 
 ![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
   
