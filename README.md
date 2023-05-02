@@ -123,5 +123,27 @@ I'm glad to see you. Have a nice day 😄
 ---
 [![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
   
+![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## summarization
+
+![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
+
+
+## solved.ac
+
+![hideonbush](https://lol-github-profile-api.vercel.app/api/solvedac?name=hideonbush)
+![피들서폿누가함](https://lol-github-profile-api.vercel.app/api/solvedac?name=피들서폿누가함)
+![akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=akaps)
+![석 희](https://lol-github-profile-api.vercel.app/api/solvedac?name=석%20희)
+![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴)
+![골 드](https://lol-github-profile-api.vercel.app/api/solvedac?name=골%20드)
+![한세유](https://lol-github-profile-api.vercel.app/api/solvedac?name=한세유)
+![부산푸우](https://lol-github-profile-api.vercel.app/api/solvedac?name=부산푸우)
+
+## summarization
+
+![hideonbush](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=hide%20on%20bush)
