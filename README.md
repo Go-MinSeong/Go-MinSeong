@@ -120,14 +120,13 @@ I'm glad to see you. Have a nice day 😄
   
 ## 🎮 Game Skills 
 ![image](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴)
----
-[![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴)
 
 ![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
-
   
+---
   
+[![](https://visitcount.itsvg.in/api?id=Go-MinSeong&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
