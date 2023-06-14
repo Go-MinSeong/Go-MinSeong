@@ -119,7 +119,7 @@ I'm glad to see you. Have a nice day 😄
 
   
 ## 🎮 Game Skills 
-![Go턴](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴&queueType=RANKED_SOLO_5x5)![Akaps](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps&queueType=RANKED_SOLO_5x5)![hideonbush](https://lol-github-profile-api.vercel.app/api/opgg?name=hideonbush&queueType=RANKED_SOLO_5x5)![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/opgg?name=hideonbush&queueType=RANKED_SOLO_5x5)
+![Go턴](https://lol-github-profile-api.vercel.app/api/opgg?name=Go턴&queueType=RANKED_SOLO_5x5)![Akaps](https://lol-github-profile-api.vercel.app/api/opgg?name=Akaps&queueType=RANKED_SOLO_5x5)![hideonbush](https://lol-github-profile-api.vercel.app/api/opgg?name=hideonbush&queueType=RANKED_SOLO_5x5)![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/opgg?name=JustLikeThatKR&queueType=RANKED_SOLO_5x5)
 
   
 ![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps) ![hideonbush](https://lol-github-profile-api.vercel.app/api/solvedac?name=hideonbush) ![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/solvedac?name=JustLikeThatKR)
