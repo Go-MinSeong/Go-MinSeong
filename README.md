@@ -77,7 +77,7 @@ I'm glad to see you. Have a nice day 😄
 |책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[LINK](https://www.youtube.com/watch?v=DWKVIOXZ92w&t=8s)|
 |Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|22.09~ ing|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
 |FineGym dataset Temporal Action Localization through various data|22.12~ ing|CV, Speech|[LINK](https://github.com/Go-MinSeong/Video-of-a-gym-math-Temporal-Action-Localization)|
-|KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ ing|데이터 분석, NLP|[LINK](https://github.com/Go-MinSeong/KRX-Market-New-Listing-Stock-Price-Flow-Analysis)|
+|KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ ing|데이터 분석, ML|[LINK](https://github.com/Go-MinSeong/KRX-Market-New-Listing-Stock-Price-Flow-Analysis)|
 
 
 ***
