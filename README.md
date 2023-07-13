@@ -44,7 +44,7 @@ I'm glad to see you. Have a nice day 😄
 | 2022.03~2023.02 | DB김준기문화재단 | DB동하리 | 수료 |
 | 2022.03~2023.02 | 아이들과미래재단 | KB학습멘토링 | 수료 |
 | 2022.12~ | 국민대학교 | 학부연구생 | 진행중 |
-| 2023.01~ | 준학회 X:AI | 운영진 | 진행중 [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do) |
+| 2023.01~ | 준학회 X:AI | 운영진 | 진행중 [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
 | 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | [LINK](https://www.youtube.com/watch?v=DuUlDEizV0s) |
 
   
