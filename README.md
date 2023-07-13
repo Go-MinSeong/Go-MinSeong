@@ -72,7 +72,7 @@ I'm glad to see you. Have a nice day 😄
 |설문 응답 여부 예측(Kaggle competition)|21.09~21.12|ML|[LINK](https://github.com/Go-MinSeong/Predicting-survey-responses)|
 |로그를 통한 나를 분석하기|21.09~21.12|데이터 분석|-|
 |홍대&상수 상권 분석을 통한 생존 전략|21.09~21.12|QGIS|-|
-|네이버 메일 읽음 여부 예측|22.03~22.06|NLP|[LINK](https://github.com/Go-MinSeong/Predicting-whether-your-mail-will-be-read)|
+|네이버 메일 읽음 여부 예측|22.03~22.06|ML, 크롤링|[LINK](https://github.com/Go-MinSeong/Predicting-whether-your-mail-will-be-read)|
 |식물 이미지 질병 탐지|22.09~22.12|CV|[LINK](https://github.com/Go-MinSeong/Plant-disease-detection)|
 |책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[LINK](https://www.youtube.com/watch?v=DWKVIOXZ92w&t=8s)|
 |Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|22.09~ ing|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
