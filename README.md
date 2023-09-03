@@ -46,6 +46,7 @@ I'm glad to see you. Have a nice day 😄
 | 2022.12~ | 국민대학교 | 학부연구생 | 진행중 |
 | 2023.01~ | 준학회 X:AI | 운영진 | 진행중 [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
 | 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | [LINK](https://www.youtube.com/watch?v=DuUlDEizV0s) |
+| 2023.09~ | 넥스트랩 | 인턴 |  |
 
   
 링크가 없는 경우는 링크 준비중에 있습니다.
