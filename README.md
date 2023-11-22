@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?color=4169e1&type=transparent&text=Welcome to my Home&fontSize=50&fontColor=4169e1&theme=transparent&section=header)
 
+
+<div align="center">
+
 ## Hi There 👋 
 Hello, I'm MinSeong Go, dreaming of becoming a **AI Developer**
 
@@ -123,6 +126,9 @@ I'm glad to see you. Have a nice day 😄
 ![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps) ![hideonbush](https://lol-github-profile-api.vercel.app/api/solvedac?name=hideonbush) ![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/solvedac?name=JustLikeThatKR)
 
 ![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
+
+</div>
+
   
 ---
 [![](https://visitcount.itsvg.in/api?id=Go-MinSeong&label=Profile%20Views&color=6&icon=4&pretty=true)](https://visitcount.itsvg.in)
