@@ -87,7 +87,7 @@ I'm glad to see you. Have a nice day 😄
 |Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|22.09~ ing|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
 |FineGym dataset Temporal Action Localization through various data|22.12~ ing|CV, Audio|[LINK](https://github.com/Go-MinSeong/Video-of-a-gym-math-Temporal-Action-Localization)|
 |KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ 23.06|데이터 분석, ML|[LINK](https://github.com/Go-MinSeong/KRX-Market-New-Listing-Stock-Price-Flow-Analysis)|
-|Restoration Antique Video|23.11~ 23.11|CV|[LINK]([https://github.com/Go-MinSeong/KRX-Market-New-Listing-Stock-Price-Flow-Analysis](https://github.com/Go-MinSeong/project5))|
+|Restoration Antique Video|23.11~ 23.11|CV|[LINK](https://github.com/Go-MinSeong/project5)|
 
 
 ***
