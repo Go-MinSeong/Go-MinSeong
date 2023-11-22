@@ -12,6 +12,10 @@ major in **AI Big Data & Management**, **Data Science** and minor in **BigData E
 
 I'm glad to see you. Have a nice day 😄
 
+</div>
+
+<div align="center">
+
 ## 🌐 Socials & Contact
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ms._.g_) [![Mail](https://img.shields.io/badge/kms990321@gmail.com-e10915?style=flat-square&logo=Gmail&logoColor=white)](maminjeong3199@gmail.com)
 
