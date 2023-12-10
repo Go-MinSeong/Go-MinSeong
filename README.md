@@ -111,8 +111,12 @@ I'm glad to see you. Have a nice day 😄
 | :-: | :-: | :-: | :-: |
 |2018|MOS Excel|Microsoft|영구|
 |2019|한국사능력1급|교육부|영구|
+|2023|OPIc(IH)|ACTFL|25.12|
+
+
 |2020|ADsP|한국데이터산업진흥원|영구|
 |2022|SQLD|한국데이터산업진흥원|영구|
+
 
 
 
