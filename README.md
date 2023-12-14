@@ -52,7 +52,7 @@ I'm glad to see you. Have a nice day 😄
 | 2022.03~2023.02 | DB김준기문화재단 | DB동하리 | 수료 |
 | 2022.03~2023.02 | 아이들과미래재단 | KB학습멘토링 | 수료 |
 | 2022.12~ | 국민대학교 | 학부연구생 | 진행중 |
-| 2023.01~ | 준학회 X:AI | 운영진 | 진행중 [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
+| 2023.01~2023.12 | 준학회 X:AI | 운영진 | - [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
 | 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | [LINK](https://www.youtube.com/watch?v=DuUlDEizV0s) |
 | 2023.09~ | 넥스트랩 | 인턴, 딥러닝 프로젝트 수행 |  |
 
@@ -69,7 +69,7 @@ I'm glad to see you. Have a nice day 😄
 |AI 504 강의 스터디|22.01~22.02|딥러닝 기초|[LINK](https://github.com/Go-MinSeong/AI-504-Study)|
 |D&A DL session|22.03~22.06|딥러닝|-|
 |X:AI Basic session|22.07~22.08|딥러닝|-|
-|X:AI Basic session|23.03~23.06|딥러닝(운영진)|[LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence)|
+|X:AI Basic/Adv session|23.03~23.12|딥러닝(운영진)|[LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence)|
 
   
 ***
