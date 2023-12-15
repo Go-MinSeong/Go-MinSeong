@@ -117,11 +117,6 @@ I'm glad to see you. Have a nice day 😄
 
 
 
-
-## 🛠️ Algorithm Stats
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kms990321)](https://solved.ac/kms990321)<br/>
-
-
 ## 📊 GitHub Stats
 
 ![Minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
@@ -131,7 +126,7 @@ I'm glad to see you. Have a nice day 😄
   
 ## 🎮 Game Skills 
   
-![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps) ![hideonbush](https://lol-github-profile-api.vercel.app/api/solvedac?name=hideonbush) ![JustLikeThatKR](https://lol-github-profile-api.vercel.app/api/solvedac?name=JustLikeThatKR)
+![Go턴](https://lol-github-profile-api.vercel.app/api/solvedac?name=Go턴) ![Akaps](https://lol-github-profile-api.vercel.app/api/solvedac?name=Akaps)
 
 ![Go턴](https://lol-github-profile-api.vercel.app/api/opggSummarization?name=Go턴)
 
