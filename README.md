@@ -5,7 +5,7 @@
 
 
 ## Hi There 👋 
-Hello, I'm MinSeong Go, dreaming of becoming a **AI Developer** Ecpecially Computer Vision Data scientist.
+Hello, I'm MinSeong Go, dreaming of becoming a **AI Developer** Especially Computer Vision Data scientist.
 
 I am going to graduate from Kookmin University in Feburary 2024, 
 
