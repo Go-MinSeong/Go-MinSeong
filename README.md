@@ -122,6 +122,7 @@ I'm glad to see you. Have a nice day 😄
 ![Minseong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![Minseong's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Go-MinSeong&theme=dark&hide_border=true)
 ![Minseong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-MinSeong&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Minseong's GitHub stats](./profile-3d-contrib/profile-green-animate.svg)
 
   
 ## 🎮 Game Skills 
