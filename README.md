@@ -60,7 +60,7 @@ I'm glad to see you. Have a nice day 😄
 링크가 없는 경우는 링크 준비중에 있습니다.
 ***
 
-## 📘Study
+## 📘 Study &  📄 Paper Review
 | 스터디 내용 | 기간 | 비고 | 링크 |
 | :------: | :---: | :---: | :---: |
 |D&A Basic session|21.03~21.06|데이터 분석|-|
@@ -71,7 +71,10 @@ I'm glad to see you. Have a nice day 😄
 |X:AI Basic session|22.07~22.08|딥러닝|-|
 |X:AI Basic/Adv session|23.03~23.12|딥러닝(운영진)|[LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence)|
 
-  
+You want to see the paper reviews that I written click the link below.
+
+[PAPER REVIEW LINK](https://github.com/Go-MinSeong/Paper-Review)
+
 ***
 
 ## 💻Projects
@@ -93,17 +96,15 @@ I'm glad to see you. Have a nice day 😄
 
 ***
 
-## 🏆Competition
+## 🏆Competition [LINK](https://github.com/Go-MinSeong/Competition.git)
+
 | 프로젝트명 | 주관 | 대회명 | 기간 | 비고 |
 | :---: | :---: | :---: | :-----: | :---: |
-|개인별 맞춤형 컨텐츠 추천 모델|한국고용정보원| 잡케어 추천 알고리즘 경진대회 |22.01~22.01|-|
-|강서구 분석을 통한 무인 책 대여 시스템 책 추천 알고리즘 개발|강서구청| 강서구 빅데이터 활용 공모전 |22.02~22.02|-|
-|아리수 시범 지역 선정|수자원공사|2022년 대국민 물 빅데이터 공모전|22.03~22.07|-|
-|제주 봉사 프로그램 오쿠꽈 제안|제주관광공사|2022 제주 스마트관광 빅데이터 해커톤|22.07~22.08|-|
+|개인별 맞춤형 컨텐츠 추천 모델|한국고용정보원| 잡케어 추천 알고리즘 경진대회 |22.01~22.01|상위10%|
+|제주 봉사 프로그램 오쿠꽈 제안|제주관광공사|2022 제주 스마트관광 빅데이터 해커톤|22.07~22.08|본선 진출|
 |고객구매 데이터에 기반한 예측 모델 개발 및 개인화 마케팅 전략 제안|롯데멤버스|제7회 롯데멤버스 빅데이터 경진대회|22.06~22.08|-|
-|심리 성향 예측|SW중심대학|SW중심대학 공동 AI 경진대회|22.08~22.08|-|
+|심리 성향 예측|SW중심대학|SW중심대학 공동 AI 경진대회|22.08~22.08|예선 3등|
 |앱 사용성 데이터를 통한 대출신청 예측분석|과학기술정보통신부, NIA한국지능정보사회진흥원|2022 빅콘테스트|22.09~22.10|-|
-
 
 ***
 
@@ -115,6 +116,7 @@ I'm glad to see you. Have a nice day 😄
 |2023|OPIc(IH)|ACTFL|25.12|
 |2020|ADsP|한국데이터산업진흥원|영구|
 |2022|SQLD|한국데이터산업진흥원|영구|
+|2023|빅데이터분석기사(필기)|한국데이터산업진흥원|25.06|
 
 
 
