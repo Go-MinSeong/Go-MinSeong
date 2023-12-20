@@ -52,7 +52,7 @@ I'm glad to see you. Have a nice day 😄
 | 2022.03~2023.02 | DB김준기문화재단 | DB동하리 | 수료 |
 | 2022.03~2023.02 | 아이들과미래재단 | KB학습멘토링 | 수료 |
 | 2022.12~ | 국민대학교 | 학부연구생 | 진행중 |
-| 2023.01~2023.12 | 준학회 X:AI | 운영진 | - [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
+| 2023.01~2023.12 | 준학회 X:AI | 운영진 | [LINK](https://cms.kookmin.ac.kr/kmu-xai/index.do), [LINK](https://github.com/Go-MinSeong/Paper-Review) |
 | 2023.02 | 기아대책본부 | 베트남 해외 봉사단원 | [LINK](https://www.youtube.com/watch?v=DuUlDEizV0s) |
 | 2023.09~ | 넥스트랩 | 인턴, 딥러닝 프로젝트 수행 |  |
 
@@ -83,7 +83,7 @@ I'm glad to see you. Have a nice day 😄
 |홍대&상수 상권 분석을 통한 생존 전략|21.09~21.12|QGIS|-|
 |네이버 메일 읽음 여부 예측|22.03~22.06|ML, 크롤링|[LINK](https://github.com/Go-MinSeong/Predicting-whether-your-mail-will-be-read)|
 |식물 이미지 질병 탐지|22.09~22.12|CV|[LINK](https://github.com/Go-MinSeong/Plant-disease-detection)|
-|책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[PT LINK](https://www.youtube.com/watch?v=DWKVIOXZ92w&t=8s)[LINK](https://github.com/Go-MinSeong/Conference/tree/main/Generate_Novel_Scence)|
+|책 내용 요약 및 text to image를 통한 책 장면 이미지화|22.07~22.11|CV/NLP|[PT LINK](https://www.youtube.com/watch?v=DWKVIOXZ92w&t=8s) [LINK](https://github.com/Go-MinSeong/Conference/tree/main/Generate_Novel_Scence)|
 |SF-AdaCoF <br/> Video Frame Interpolation|22.09~ 23.09|CV|[LINK](https://github.com/Go-MinSeong/VideoFrameInterpolation_Dance)|
 |FineGym dataset Temporal Action Localization through various data|22.12~ ing|CV, Audio|[LINK](https://github.com/Go-MinSeong/Video-of-a-gym-math-Temporal-Action-Localization)|
 |KRX시장 신규 상장 주식 주가 흐름 분석|23.03~ 23.06|데이터 분석, ML|[LINK](https://github.com/Go-MinSeong/KRX-Market-New-Listing-Stock-Price-Flow-Analysis)|
