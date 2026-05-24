@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/Go-MinSeong">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4F8CC9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+MinSeong+Go+%E2%80%94+%EA%B3%A0%EB%AF%BC%EC%84%B1;Computer+Vision+%E2%86%92+AI+Engineer;Building+models+that+see+and+understand." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=4F8CC9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+MinSeong+Go+%E2%80%94+%EA%B3%A0%EB%AF%BC%EC%84%B1;AI+Engineer;Defining+new+problems.+Building+new+things." alt="typing intro" />
   </a>
 
 </div>
@@ -10,12 +10,13 @@
 
 ### About
 
-I build vision & AI systems for real-world products.
-Started in **Computer Vision**, now expanding into broader **AI Engineering** — multimodal models, on-device inference, and model optimization.
+AI Engineer drawn to **problem framing** and **greenfield exploration** —
+more interested in finding the right problem than refining what already exists.
 
-- Currently focused on **vision + multimodal AI** in production
-- Exploring efficient inference, quantization, agentic systems
+- Currently exploring **novel problem spaces** across AI & vision
+- Curious about open-ended research → product translation
 - Writing technical notes on [Velog](https://velog.io/@kms990321) *(한국어)*
+- Connect on [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%B1-%EA%B3%A0-56a839277/)
 - Reach me — `kms990321 [at] gmail.com`
 
 <br />
@@ -81,6 +82,7 @@ infra     = ["Docker", "Linux", "AWS", "Git"]
 <div align="center">
 
   <a href="https://github.com/Go-MinSeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%84%B1-%EA%B3%A0-56a839277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kms990321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://velog.io/@kms990321"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 
