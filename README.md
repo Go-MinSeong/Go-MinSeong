@@ -15,8 +15,8 @@ Started in **Computer Vision**, now expanding into broader **AI Engineering** �
 
 - Currently focused on **vision + multimodal AI** in production
 - Exploring efficient inference, quantization, agentic systems
-- Writing technical notes on [Velog](https://velog.io/@gms3309) *(한국어)*
-- Reach me — `minseong.ko [at] nota.ai`
+- Writing technical notes on [Velog](https://velog.io/@kms990321) *(한국어)*
+- Reach me — `kms990321 [at] gmail.com`
 
 <br />
 
@@ -81,8 +81,8 @@ infra     = ["Docker", "Linux", "AWS", "Git"]
 <div align="center">
 
   <a href="https://github.com/Go-MinSeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:minseong.ko@nota.ai"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://velog.io/@gms3309"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
+  <a href="mailto:kms990321@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://velog.io/@kms990321"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 
   <sub><i>Thanks for stopping by.</i></sub>
 
