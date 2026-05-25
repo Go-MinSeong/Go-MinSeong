@@ -55,17 +55,6 @@ infra     = ["FastAPI", "Docker", "Linux", "AWS"]
 
 <br />
 
-### Stats
-
-<!-- Generated daily by .github/workflows/metrics.yml — metrics-output branch hosts the SVG -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Go-MinSeong/Go-MinSeong/metrics-output/metrics.svg" alt="GitHub metrics" />
-
-</div>
-
-<br />
-
 ### Contribution Snake
 
 <!-- Generated daily by .github/workflows/snake.yml — output branch hosts the SVGs -->
