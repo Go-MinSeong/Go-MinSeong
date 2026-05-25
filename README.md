@@ -17,26 +17,25 @@ more interested in finding the right problem than refining what already exists.
 - Curious about open-ended research → product translation
 - Writing technical notes on [Velog](https://velog.io/@kms990321) *(한국어)*
 - Connect on [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%B1-%EA%B3%A0-56a839277/)
-- Reach me — `kms990321 [at] gmail.com`
+- Reach me — [kms990321@gmail.com](mailto:kms990321@gmail.com)
 
 <br />
 
 ### Tech
 
 ```python
-languages = ["Python", "TypeScript"]
-ai_ml     = ["PyTorch", "Transformers", "ONNX", "TensorRT"]
-domains   = ["Computer Vision", "Multimodal", "Model Optimization"]
-infra     = ["Docker", "Linux", "AWS", "Git"]
+languages = ["Python"]
+ai_ml     = ["PyTorch", "Transformers", "vLLM", "Diffusers"]
+domains   = ["Computer Vision", "Multimodal", "Agents"]
+infra     = ["FastAPI", "Docker", "Linux", "AWS"]
 ```
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
