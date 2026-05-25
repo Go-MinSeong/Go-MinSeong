@@ -57,10 +57,10 @@ infra     = ["FastAPI", "Docker", "Linux", "AWS"]
 
 ### Stats
 
+<!-- Generated daily by .github/workflows/metrics.yml — metrics-output branch hosts the SVG -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Go-MinSeong&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=4F8CC9&icon_color=4F8CC9&text_color=8b949e&hide=issues" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Go-MinSeong&layout=compact&hide_border=true&theme=transparent&title_color=4F8CC9&text_color=8b949e&langs_count=8" height="160" />
+<img src="https://raw.githubusercontent.com/Go-MinSeong/Go-MinSeong/metrics-output/metrics.svg" alt="GitHub metrics" />
 
 </div>
 
